@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1">
-    <name>-</name>
+    <name>Seduc</name>
     <SSIDConfig>
         <SSID>
-            <name>-</name>
+            <name>Seduc</name>
         </SSID>
     </SSIDConfig>
     <connectionType>ESS</connectionType>
@@ -18,7 +18,7 @@
             <sharedKey>
                 <keyType>passPhrase</keyType>
                 <protected>false</protected>
-                <keyMaterial>aVYwMTAyODAxMw</keyMaterial>
+                <keyMaterial>87654321</keyMaterial>
             </sharedKey>
         </security>
     </MSM>
